@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TableNews</string>
+    <string name="my_ads">Мои обьявления</string>
+    <string name="cars_ads">Машины</string>
+    <string name="computer_ads">Компьютеры</string>
+    <string name="smartphone_ads">Смартфоны</string>
+    <string name="dm_ads">Бытовая техника</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_out">Выход</string>
+    <string name="accaunt">Аккаунт</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="sign_up_button">Зарегистрироватся</string>
+    <string name="sign_in_or_sign_up">Войдите или зарегестрируйтесь</string>
+    <!-- EditActivity -->
+    <string name="edit_ac_title">Название</string>
+    <string name="edit_ac_price">Цена</string>
+    <string name="edit_ac_discription">Описание</string>
+    <string name="edit_ac_phone">Телефон</string>
+
+    <!-- Toolbar in MainActivity -->
+    <string name="toggle_open">Открыть</string>
+    <string name="toggle_close">Закрыть</string>
+
+    <string name="delete_title">Удалить обьявление?</string>
+    <string name="delete_message">Серъезно удалить?</string>
+    <string name="yes">Da</string>
+    <string name="no">Net</string>
+    <string name="item_deleted">DELETED</string>
+</resources>

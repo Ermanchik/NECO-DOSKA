@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269478448852",
+    "project_id": "tabladeanuncios-12d5e",
+    "storage_bucket": "tabladeanuncios-12d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269478448852:android:9c8ff14d707b2c6e437541",
+        "android_client_info": {
+          "package_name": "com.example.tablenews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5aAZ_tt2qQd7inO8h4c6C7oyy0REXp9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
